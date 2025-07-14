@@ -1,2 +1,10 @@
-# rencode-media-apple
-Just a Python script to re-encode media files that have been corrupted and can't be added to the iCloud Photos app
+# Re-Encode Media Files for Apple Photos App
+
+This is just a Python script to re-encode media files (images and videos) that have been corrupted and are not compatible with the Apple Photos app.
+
+## Usage
+
+```bash
+uv run main.py
+```
+
